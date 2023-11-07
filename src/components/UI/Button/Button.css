@@ -8,6 +8,10 @@
   cursor: pointer;
 }
 
+.button.error {
+  background: rgb(247, 186, 186);
+}
+
 .button:focus {
   outline: none;
 }
